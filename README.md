@@ -22,3 +22,8 @@ There is an increasing need to ensure that hardware, software, tools and vendors
 *   **Interoperability Issues:** Different systems or tools might interpret or handle metadata differently. This can cause challenges when trying to integrate or move data across platforms.
 
 In the rapidly advancing world of cybersecurity, the integration of comprehensive models like the OSCAL Component-Definitions Model is pivotal for fostering a robust defense mechanism. While it offers a robust framework to capture controls in various scenarios, the nuances surrounding CRM integration, implementation guidance, and metadata consistency pose significant hurdles. Addressing these challenges requires a multifaceted approach: a synergy of technology, standardized practices, and continuous refinement. As organizations forge ahead in their journey toward a fortified security stance, embracing models that support policy refinement and risk framework alignment becomes indispensable.
+
+# TO DO 
+- [ ] Continue to refine the problem stagement
+- [ ] Create XML/JSON formats of purposed policy/sop standard
+- [ ] Seek community feedback on purposed policy/sop standard
