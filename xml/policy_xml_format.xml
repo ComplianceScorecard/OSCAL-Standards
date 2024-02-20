@@ -1,0 +1,39 @@
+<policy xmlns="http://example.org/ns/oscal/policy/1.0" uuid="uuid-value">
+  <metadata>
+    <!-- Insert metadata here, similar to OSCAL SSP metadata structure -->
+  </metadata>
+  <uri-reference>http://example.com/policy/uri</uri-reference>
+  <system-implementation>
+    <!-- System Implementation details, similar to OSCAL SSP -->
+  </system-implementation>
+  <document-id>Policy-Document-ID-String</document-id>
+  <component uuid="component-uuid" type="policy-component">
+    <title>Policy Title</title>
+    <description>Policy description text here.</description>
+    <category>
+      <!-- Array of categories this policy belongs to -->
+    </category>
+    <executive-overview>Executive overview text here.</executive-overview>
+    <purpose>Purpose of the policy text here.</purpose>
+    <scope>Scope of the policy text here.</scope>
+    <policy-statement>Policy statement text here.</policy-statement>
+    <enforcement>Enforcement details text here.</enforcement>
+    <roles-and-responsibilities>Roles and responsibilities text here.</roles-and-responsibilities>
+    <other-provisions>Text about other provisions required by laws here.</other-provisions>
+    <related-standards>Related standards text here.</related-standards>
+    <related-documents>Related documents text here.</related-documents>
+    <definitions-and-terms>Definitions and terms text here.</definitions-and-terms>
+    <remarks>Any additional remarks here.</remarks>
+    <citations>
+      <citation>
+        <text>Citation text here.</text>
+        <prop name="example-token" uuid="example-uuid" ns="http://example.com/ns" value="example-value" class="token" group="token"/>
+        <link href="http://example.com/resource" rel="related" media-type="application/pdf" resource-fragment="example-fragment">
+          <text>Link text here.</text>
+        </link>
+      </citation>
+      <!-- Additional citations as needed -->
+    </citations>
+  </component>
+  <!-- Additional components as needed -->
+</policy>
