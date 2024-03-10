@@ -75,5 +75,6 @@ In addition to the challenges previously outlined, organizations face significan
 
 # TO DO 
 - [X] Continue to refine the problem stagement
+- [~] Refine the documentation structure
 - [ ] Create XML/JSON formats of purposed policy/sop standard
 - [ ] Seek community feedback on purposed policy/sop standard
