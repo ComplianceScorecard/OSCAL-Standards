@@ -31,6 +31,7 @@ any related laws, regulations or standards
 ### definitions and terms 
 A table of definitions and terms 
 
-todo
+# to do
 [ ] continue to refine the structure 
 [~] seek community feedback, and suggested changes 
+
