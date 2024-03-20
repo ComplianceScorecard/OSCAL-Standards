@@ -73,7 +73,16 @@ In addition to the challenges previously outlined, organizations face significan
 
 --
 # proposed documentation structure
-pages/documentation_standard.md
+A proposed [structure consisting] (https://github.com/GoldenTechSolutons/OSCAL-Standards/blob/main/pages/documentation_standard.md) of sections:
+- executive summary
+- purpose
+- management intent
+- scope
+- roles and responsibilities
+- enforcement
+- policy
+- related regulations and standards
+- definitions and terms
 
 --
 
