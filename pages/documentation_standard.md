@@ -12,6 +12,8 @@ Referencing the problem statement <insert link to problem statemen>
 The structure of the policy documentation is designed to provide clarity, ease of navigation, and comprehensive coverage of all aspects related to the policy. It will be organized as follows:
 
 # suggested documentation structure
+![Example Format](https://github.com/GoldenTechSolutons/OSCAL-Standards/blob/main/resources/images/sections-1.png "example_1")
+
 ### executive summary 
 provides an executive overview of the document
 ### purpose 
@@ -30,8 +32,11 @@ The actual policy document outlining all related information for the policy
 any related laws, regulations or standards
 ### definitions and terms 
 A table of definitions and terms 
+---
+![Example Format](https://github.com/GoldenTechSolutons/OSCAL-Standards/blob/main/resources/images/sections-2.png "example_2")
+---
 
 # to do
-- [ ] continue to refine the structure 
-- [~] seek community feedback, and suggested changes 
+[ ] continue to refine the structure 
+[ ~ ] seek community feedback, and suggested changes 
 
