@@ -32,6 +32,6 @@ any related laws, regulations or standards
 A table of definitions and terms 
 
 # to do
-[ ] continue to refine the structure 
-[~] seek community feedback, and suggested changes 
+- [ ] continue to refine the structure 
+- [~] seek community feedback, and suggested changes 
 
