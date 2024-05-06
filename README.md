@@ -71,9 +71,10 @@ In addition to the challenges previously outlined, organizations face significan
 
 4. **Educate and Train Staff:** Provide training for staff on the importance of standardized policy documentation and the use of frameworks and tools that support these standards. Ensure that team members understand how to effectively manage and utilize simplified SSPs and WISPs.
 
---
+---
+
 # proposed documentation structure
-A proposed [structure consisting] (https://github.com/GoldenTechSolutons/OSCAL-Standards/blob/main/pages/documentation_standard.md) of sections:
+A proposed [structure consisting](https://pages.nist.gov/OSCAL/resources/concepts/layer/implementation/component-definition/) of sections:
 - executive summary
 - purpose
 - management intent
@@ -84,10 +85,9 @@ A proposed [structure consisting] (https://github.com/GoldenTechSolutons/OSCAL-S
 - related regulations and standards
 - definitions and terms
 
---
-
+---
 # TO DO 
 - [X] Continue to refine the problem stagement
-- [~] Refine the documentation structure
+- [X] Refine the documentation structure
 - [ ] Create XML/JSON formats of purposed policy/sop standard
 - [ ] Seek community feedback on purposed policy/sop standard
